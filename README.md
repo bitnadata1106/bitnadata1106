@@ -47,8 +47,9 @@ Tech
 Repository:
 Gym-Usage-Analysis
 
+--
 
-### :🚗 BMW Used Car Price Prediction
+### 🚗 BMW Used Car Price Prediction
 중고차량 가격 예측을 위한 머신러닝 모델링
 
 - 데이터: Kaggle BMW dataset (10,781 rows)
