@@ -10,10 +10,21 @@ Data Enthusiast | Python | SQL | Public Data Analysis
 
 ## 🛠 Tech Stack
 
-| **Language / Query** | **Data / Cloud** | **Visualization** | **Tools** |
-|---|---|---|---|
-| Python (Pandas, Scikit-learn) | BigQuery | Looker Studio | Google Colab
-| SQL (MySQL)| DBeaver |  |  |  GitHub | 
+**Language**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data / Cloud**
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
+
+**Visualization**
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+
+**Tools**
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 
 ## 📊 Projects
