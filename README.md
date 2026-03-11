@@ -10,25 +10,11 @@ Data Enthusiast | Python | SQL | Public Data Analysis
 
 ## 🛠 Tech Stack
 
-**Language / Query**
+| **Language / Query** | **Data / Cloud** | **Visualization** | **Tools** |
+|---|---|---|
+| Python (Pandas, Scikit-learn) | BigQuery | Looker Studio | Google Colab
+| SQL (MySQL)| DBeaver |  |  |  GitHub | 
 
-Python (Pandas, Scikit-learn)  
-SQL (MySQL)
-
-**Data / Cloud**
-
-BigQuery  
-DBeaver
-
-**Visualization**
-
-Looker Studio
-
-**Tools**
-
-Google Sheets  
-Excel  
-GitHub
 
 
 ## 📊 Projects
@@ -44,10 +30,8 @@ GitHub
 Tech
 - Python / Pandas / Google Sheets / BigQuery
 
-Repository:
-Gym-Usage-Analysis
+[바로가기](https://github.com/bitnadata1106/Community-Center-Cooling-Optimization)
 
---
 
 ### 🚗 BMW Used Car Price Prediction
 중고차량 가격 예측을 위한 머신러닝 모델링
@@ -57,8 +41,7 @@ Gym-Usage-Analysis
 - 최종 선정 모델: Gradient Boosting
 - 모델 성능: RMSE: 3027  , R²: 0.9249  , Train-Test Gap: 0.0158
 
-Repository:
-BMW-Price_Prediction 
+[바로가기](https://github.com/bitnadata1106/BMW-Price-Prediction)
 
 ---
 
