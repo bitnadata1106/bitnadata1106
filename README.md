@@ -16,7 +16,6 @@ Data Enthusiast | Python | SQL | Public Data Analysis
 | SQL (MySQL)| DBeaver |  |  |  GitHub | 
 
 
-
 ## 📊 Projects
 
 ### 🧊 Community Center Cooling Optimization
