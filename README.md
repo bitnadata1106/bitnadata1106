@@ -8,38 +8,57 @@ Data Enthusiast | Python | SQL | Public Data Analysis
 
 ---
 
+## 🛠 Tech Stack
+
+**Language / Query**
+
+Python (Pandas, Scikit-learn)  
+SQL (MySQL)
+
+**Data / Cloud**
+
+BigQuery  
+DBeaver
+
+**Visualization**
+
+Looker Studio
+
+**Tools**
+
+Google Sheets  
+Excel  
+GitHub
+
+
 ## 📊 Projects
 
 ### 🧊 Community Center Cooling Optimization
 헬스장 출입 데이터를 활용하여 냉방 운영을 개선한 프로젝트
 
 - 기간: 2025.06 ~ 2025.07
-- 데이터: 커뮤니티센터 출입 기록
-- 분석: 시간대별 이용 패턴 분석
+- 데이터: 커뮤니티센터 출입 기록 + 기상기록
+- 분석: 시간대별 x 요일별 이용 패턴 분석
 - 결과: 냉방 가동 시간 최적화 제안
 
 Tech
-- Python
-- Pandas
-- Google Sheets
+- Python / Pandas / Google Sheets / BigQuery
+
+Repository
+Gym-Usage-Analysis
 
 ---
 
-### 🌱 Public Data Analysis
-공공데이터를 활용한 데이터 분석 프로젝트
+### :🚗 BMW Used Car Price Prediction
+중고차량 가격 예측을 위한 머신러닝 모델링
 
-- 에너지 사용 데이터 분석
-- 환경 데이터 분석
+- 데이터: Kaggle BMW dataset (10,781 rows)
+- 모델: Linear Regression / Random Forest / Gradient Boosting
+- 최종 선정 모델: Gradient Boosting
+- 모델 성능: RMSE: 3027  , R²: 0.9249  , Train-Test Gap: 0.0158
 
----
-
-## 🛠 Tech Stack
-
-Python  
-SQL  
-Pandas  
-Google Sheets  
-Git / GitHub  
+Repository
+BMW-Price_Prediction 
 
 ---
 
