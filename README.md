@@ -44,7 +44,7 @@ GitHub
 Tech
 - Python / Pandas / Google Sheets / BigQuery
 
-Repository
+Repository:
 Gym-Usage-Analysis
 
 ---
@@ -57,7 +57,7 @@ Gym-Usage-Analysis
 - 최종 선정 모델: Gradient Boosting
 - 모델 성능: RMSE: 3027  , R²: 0.9249  , Train-Test Gap: 0.0158
 
-Repository
+Repository:
 BMW-Price_Prediction 
 
 ---
