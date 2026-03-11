@@ -1,30 +1,56 @@
 ## 안녕하세요, 홍민지입니다 👋
 
-<!--
-**bitnadata1106/bitnadata1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Enthusiast | Python | SQL | Public Data Analysis
 
-> 운영 현장의 문제를 데이터로 직접 정의하고 해결책을 제안하는 데이터 분석가입니다.
-
----
-
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+공공데이터 분석과 데이터 기반 문제 해결에 관심이 있습니다.
+에너지 및 환경 분야 데이터 분석을 통해
+현실 문제를 해결하는 데이터 엔지니어를 목표로 하고 있습니다.
 
 ---
 
-### 📌 주요 프로젝트
+## 📊 Projects
 
-| 프로젝트 | 설명 | 링크 |
-|---|---|---|
-| 🏋️ 헬스장 출입기록 기반 냉방 운영 최적화 | 출입기록 + 기상데이터로 냉방 운영 기준 개선 제안 | [바로가기](https://github.com/bitnadata1106/Gym-Usage-Analysis) |
-| 🚗 BMW 중고차 가격 예측 | Gradient Boosting 모델로 가격 예측 (R² 0.9249) | [바로가기](https://github.com/bitnadata1106/BMW-Price_Prediction) |
+### 🧊 Community Center Cooling Optimization
+헬스장 출입 데이터를 활용하여 냉방 운영을 개선한 프로젝트
+
+- 기간: 2025.06 ~ 2025.07
+- 데이터: 커뮤니티센터 출입 기록
+- 분석: 시간대별 이용 패턴 분석
+- 결과: 냉방 가동 시간 최적화 제안
+
+Tech
+- Python
+- Pandas
+- Google Sheets
 
 ---
 
-### 📫 Contact
-- 📧 bitnadata1106@gmail.com
+### 🌱 Public Data Analysis
+공공데이터를 활용한 데이터 분석 프로젝트
+
+- 에너지 사용 데이터 분석
+- 환경 데이터 분석
+
+---
+
+## 🛠 Tech Stack
+
+Python  
+SQL  
+Pandas  
+Google Sheets  
+Git / GitHub  
+
+---
+
+## 📚 Currently Learning
+
+- Data Engineering Basics
+- SQL Data Processing
+- Public Data Analysis
+
+---
+
+## 📫 Contact
+
+Email: bitnadata1106@gmail.com
